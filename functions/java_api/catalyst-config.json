@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "java_api",
+		"stack": "java21",
+		"type": "advancedio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "Sample"
+	}
+}

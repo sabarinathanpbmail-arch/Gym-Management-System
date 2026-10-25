@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "71722000000063514",
+      "name": "Gym-Management-System",
+      "domain": {
+        "id": "50046929593",
+        "name": "gym-management-system-60089931848.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60089931848",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

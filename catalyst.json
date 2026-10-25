@@ -1,0 +1,20 @@
+{
+  "functions": {
+    "targets": [
+      "java_api"
+    ],
+    "ignore": [
+      ".output"
+    ],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  },
+  "slate": [
+    {
+      "name": "gym-portal",
+      "source": "client"
+    }
+  ]
+}
